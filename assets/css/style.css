@@ -1,0 +1,88 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+    font-family: "Caladea", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+/*NAV*/
+
+nav{
+    margin-left: 0px;
+    font-weight: 500;
+}
+
+/*HERO SECTION*/
+
+.container{
+    display: flex;
+    align-items: flex-start;
+    width: 150%;
+    justify-content: flex-start;
+    gap: 10%;
+
+}
+
+
+/*ACERCA DE MI*/
+
+.Acercademi{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.ACERCADE{
+   
+    text-align: center;
+    padding: 20px;
+    background-color: white;
+    margin: 0 auto;
+    width: 100%;
+    font-family: "Caladea", serif;
+    font-weight: 400;
+    font-style: italic;
+    
+   
+    
+}
+ .acercademi{
+    font-size: 20px;
+ }
+
+h2{
+    font-size: 60px;
+    text-align: center;
+    font-family: "Caladea", serif;
+    font-weight: 700;
+    font-style: italic;
+    
+}
+
+.flex{
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+    font-size: 40px;
+}
+
+.box{
+    font-size: 40px;
+}
+
+
+
+/*CONTACTO*/
+
+.form-control {
+    font-family: "Caladea", serif;
+    font-style: italic;
+    font-weight: 700;
+    color: #373a3c;
+  }
